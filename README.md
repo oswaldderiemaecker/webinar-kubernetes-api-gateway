@@ -8,7 +8,6 @@ Demonstrating a HTTP based microservices and API gateway with Kubernetes and Hel
 
 ## Getting Started
 
-- [Azure Container Service](/docs/azure.md)
 - [Docker Compose](/docs/docker-compose.md)
 - [Minikube](/docs/minikube.md)
 
