@@ -25,7 +25,7 @@ Building Docker image:
 
 ```sh
 helm init
-helm install --name services ./helm
+helm install services ./helm
 ```
 
 ## 3. Accessing Application
