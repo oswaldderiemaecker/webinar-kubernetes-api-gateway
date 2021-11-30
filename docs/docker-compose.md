@@ -5,6 +5,8 @@
 ```sh
 docker-compose build
 docker-compose up
+docker-compose stop
+docker-compose down
 ```
 
 ## 2. Accessing Application
